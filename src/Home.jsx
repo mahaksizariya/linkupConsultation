@@ -240,11 +240,11 @@ function Home() {
     "w-full border-0 border-b bg-transparent px-4 py-4 text-base text-slate-200 outline-none transition placeholder:text-slate-300 focus:border-[#00A9C5]";
 
   return (
-    <div className="relative min-h-screen overflow-x-clip bg-[#0B2550] text-white antialiased" style={{ fontFamily: "Verdana" }}>
+    <div className="relative min-h-screen overflow-x-clip bg-[#0B2550] pb-16 text-white antialiased sm:pb-0" style={{ fontFamily: "Verdana" }}>
       <div className="pointer-events-none absolute left-[35%] top-0 h-[520px] w-[620px] -translate-x-1/2 rounded-full bg-[#00A9C5]/15 blur-[140px]" />
 
       {/* Header */}
-      <header className="relative z-20 mx-auto flex max-w-[1320px] flex-wrap items-center justify-between gap-4 px-5 py-5 lg:px-10">
+      <header className="relative z-20 mx-auto flex max-w-[1320px] flex-wrap items-center justify-between gap-0 px-5 py-3 sm:gap-4 sm:py-5 lg:px-10">
         <a href="#home" aria-label={brand.logoText} className="flex items-center">
           <BrandLogo />
         </a>
@@ -255,7 +255,7 @@ function Home() {
           <a href={`mailto:${header.email}`} className="hidden items-center gap-2 md:flex">
             <Mail size={18} />{header.email}
           </a>
-          <a href={header.cta.href} className="rounded-full bg-[#00A9C5] px-6 py-3 font-medium text-[#0B2550] transition hover:bg-white">
+          <a href={header.cta.href} className="hidden rounded-full bg-[#00A9C5] px-6 py-3 font-medium text-[#0B2550] transition hover:bg-white sm:inline-flex">
             {header.cta.label}
           </a>
         </div>
@@ -850,12 +850,27 @@ function Home() {
         })}
       </aside>
 
+      <nav aria-label="Quick contact actions" className="fixed inset-x-0 bottom-0 z-30 flex bg-[#00A9C5] pb-[env(safe-area-inset-bottom)] text-[#0B2550] sm:hidden">
+        <a href={floatingActions.find((action) => action.icon === "phone")?.href} className="flex min-w-0 flex-1 flex-col items-center justify-center gap-1 border-r border-white/70 py-2 text-xs font-medium">
+          <Phone size={20} />
+          <span>Call Us Now</span>
+        </a>
+        <a href={whatsapp.href} target="_blank" rel="noreferrer" className="flex min-w-0 flex-1 flex-col items-center justify-center gap-1 border-r border-white/70 py-2 text-xs font-medium">
+          <MessageCircle size={20} />
+          <span>WhatsApp</span>
+        </a>
+        <a href={floatingActions.find((action) => action.icon === "inquiry")?.href} className="flex min-w-0 flex-1 flex-col items-center justify-center gap-1 py-2 text-xs font-medium">
+          <HelpCircle size={20} />
+          <span>Quick Inquiry</span>
+        </a>
+      </nav>
+
       <a
         href={whatsapp.href}
         target="_blank"
         rel="noreferrer"
         aria-label={whatsapp.label}
-        className="fixed bottom-5 right-5 z-30 grid h-14 w-14 place-items-center rounded-full bg-[#00A9C5] text-[#0B2550] shadow-lg shadow-black/40 transition hover:scale-105"
+        className="fixed bottom-5 right-5 z-30 hidden h-14 w-14 place-items-center rounded-full bg-[#00A9C5] text-[#0B2550] shadow-lg shadow-black/40 transition hover:scale-105 sm:grid"
       >
         <MessageCircle size={28} />
       </a>

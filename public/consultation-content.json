@@ -162,7 +162,7 @@
   "reviews": {
     "eyebrow": "CLIENT REVIEWS",
     "title": "What Our Clients Say",
-    "description": "See what businesses and clients have to say about working with Invoidea for website design, web development, mobile apps and custom software solutions.",
+    "description": "See what businesses and clients have to say about working with Linkup Group for website design, web development, mobile apps and custom software solutions.",
     "rating": {
       "score": "4.9",
       "stars": 5,
@@ -206,7 +206,7 @@
     "title": "Let's Build Something That Works For Your Business",
     "description": "Whether you need a new website, eCommerce platform, mobile app, custom software or an AI-powered solution, let's discuss your requirements and find the right approach for your project.",
     "phone": "+91 7292 050505",
-    "email": "sales@invoidea.com",
+    "email": "sales@linkupgroup.com",
     "button": { "label": "Start Your Project", "href": "#consultation" }
   },
   "customSolutions": {
@@ -316,7 +316,7 @@
     "title": "Frequently Asked Questions",
     "items": [
       {
-        "question": "How long does it take to build a website or mobile app with Invoidea?",
+        "question": "How long does it take to build a website or mobile app with Linkup Group?",
         "answer": "PLACEHOLDER – add the answer for this question."
       },
       {
@@ -518,12 +518,12 @@
         "stars": 5
       }
     ],
-    "about": "Invoidea is a web design and development company serving businesses in Noida, Delhi, Greater Noida and across India. We provide website design, web development, mobile app development, eCommerce, WordPress, Shopify, custom software and AI development solutions.",
-    "copyright": "© 2026 Invoidea. All rights reserved."
+    "about": "Linkup Group is a web design and development company serving businesses in Noida, Delhi, Greater Noida and across India. We provide website design, web development, mobile app development, eCommerce, WordPress, Shopify, custom software and AI development solutions.",
+    "copyright": "© 2026 Linkup Group. All rights reserved."
   },
   "floatingActions": [
     { "icon": "phone", "label": "Call Us Now", "href": "tel:+917292050505" },
-    { "icon": "mail", "label": "Mail To Us", "href": "mailto:sales@invoidea.com" },
+    { "icon": "mail", "label": "Mail To Us", "href": "mailto:sales@linkupgroup.com" },
     { "icon": "inquiry", "label": "Inquiry", "href": "#consultation" }
   ],
   "whatsapp": { "href": "https://wa.me/917292050505", "label": "Chat on WhatsApp" }
