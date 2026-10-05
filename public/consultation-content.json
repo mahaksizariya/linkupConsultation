@@ -1,0 +1,530 @@
+{
+  "brand": { "logoText": "Linkup Group PVT LTD", "logoUrl": "" },
+  "header": {
+    "phone": "+91 7292 050505",
+    "email": "sales@invoidea.com",
+    "cta": { "label": "Get a Free Quote", "href": "#consultation" }
+  },
+  "hero": {
+    "eyebrow": "WEB DESIGN & DEVELOPMENT COMPANY IN NOIDA & DELHI",
+    "headingLines": [
+      [
+        { "text": "Stunning ", "tone": "plain" },
+        { "text": "Websites", "tone": "orange" },
+        { "text": " &", "tone": "plain" }
+      ],
+      [
+        { "text": "Powerful ", "tone": "plain" },
+        { "text": "Apps", "tone": "blue" },
+        { "text": " That", "tone": "plain" }
+      ],
+      [{ "text": "Perform", "tone": "plain" }]
+    ],
+    "description": "We build high-performance websites, mobile apps, eCommerce platforms and custom software for businesses in Noida, Delhi NCR and across India, with AI capabilities for smarter digital experiences.",
+    "highlights": [
+      "Custom Web Design & Development",
+      "eCommerce, WordPress & Shopify"
+    ]
+  },
+  "form": {
+    "title": "Let's Build Something Smarter",
+    "description": "Tell us about your website, app or AI project.",
+    "submit": "Get a Free Consultation",
+    "submitting": "Sending...",
+    "fields": [
+      { "name": "name", "label": "Your Name", "type": "text", "placeholder": "Your Name", "autoComplete": "name", "required": true, "width": "half" },
+      { "name": "email", "label": "Email Address", "type": "email", "placeholder": "Email Address", "autoComplete": "email", "required": true, "width": "half" },
+      { "name": "phone", "label": "Phone", "type": "tel", "placeholder": "Phone", "autoComplete": "tel", "required": true, "width": "full" },
+      { "name": "message", "label": "Project details", "type": "textarea", "placeholder": "Tell us about your project", "required": true, "width": "full" }
+    ],
+    "errors": {
+      "required": "This field is required.",
+      "email": "Please enter a valid email address.",
+      "phone": "Please enter a valid phone number."
+    },
+    "messages": {
+      "success": "Thank you! Our team will contact you shortly.",
+      "invalid": "Please fix the highlighted fields and try again.",
+      "error": "Something went wrong. Please try again."
+    }
+  },
+  "trustedBy": {
+    "title": "Trusted By Brands",
+    "logos": [
+      { "name": "Greenbridge Meta Books", "image": "/logos/greenbridge.png" },
+      { "name": "Menbita", "image": "/logos/menbita.png" },
+      { "name": "NoMit", "image": "/logos/nomit.png" },
+      { "name": "Simaura", "image": "/logos/simaura.png" },
+      { "name": "Dofix", "image": "/logos/dofix.png" },
+      { "name": "Elo Engine", "image": "/logos/elo.png" }
+    ]
+  },
+  "whatWeDo": {
+    "eyebrow": "WEBSITE DESIGN COMPANY IN INDIA",
+    "title": "What We Do",
+    "description": "We design and develop modern websites, web applications and digital products with AI features that help businesses build a stronger online presence and support long-term growth. From custom website design and web development to mobile apps, eCommerce, WordPress, Shopify, custom applications and AI-powered solutions, we build digital experiences around your business requirements, users and goals. We are a leading web design and development company in India, offering end-to-end services to bring your ideas to life—trusted by businesses in Noida, Delhi NCR and across industries."
+  },
+  "services": {
+    "cards": [
+      {
+        "title": "Web Design & Development",
+        "description": "Build a professional, responsive and high-performance website tailored to your business, brand and customers.",
+        "items": ["Responsive Web Design", "Custom Website Development", "Front-End & Back-End Development", "UI/UX Design & Prototyping", "Custom Web Portals", "CMS Development", "Website Redesign & Modernization", "Performance Optimization"],
+        "cta": { "label": "Build Your Website", "href": "#consultation" }
+      },
+      {
+        "title": "Mobile App Development",
+        "description": "Build engaging and scalable mobile apps designed around your users, business processes and product goals.",
+        "items": ["Android App Development", "iOS App Development", "Cross-Platform App Development", "Mobile UI/UX Design", "AI Integration for Mobile Apps", "API Integration & Backend Systems", "App Store Deployment", "Application Maintenance & Support"],
+        "cta": { "label": "Discuss Your App", "href": "#consultation" }
+      },
+      {
+        "title": "AI Solutions",
+        "description": "Build smarter websites, mobile apps and business software with AI integrated into your digital products and workflows.",
+        "items": ["AI Integration", "AI Development", "AI Agent Development", "AI Chatbot Development", "AI Automation Services", "LLM Development", "Generative AI Solutions", "Agentic AI Development"],
+        "cta": { "label": "Build With AI", "href": "#consultation" }
+      },
+      {
+        "title": "Custom Application Development",
+        "description": "Get custom software built around your business processes, users, integrations and operational requirements.",
+        "items": ["Custom Web Application Development", "MVP Development", "Progressive Web Apps (PWAs)", "AI-Powered Application Development", "UI/UX Design", "Application Modernization", "API & Third-Party Integrations", "Application Maintenance"],
+        "cta": { "label": "Build a Custom Solution", "href": "#consultation" }
+      },
+      {
+        "title": "WordPress & Shopify Website",
+        "description": "Build a professional and performance-focused website or online store using WordPress, WooCommerce or Shopify.",
+        "items": ["Custom WordPress Website Development", "WordPress Theme Development", "WooCommerce Development", "Shopify Website Development", "Shopify Store Setup & Customization", "Custom Theme Design", "Payment Gateway Integration", "Speed & Performance Optimization"],
+        "cta": { "label": "Start Your Website", "href": "#consultation" }
+      },
+      {
+        "title": "ECommerce Solutions",
+        "description": "Build secure and conversion-focused eCommerce websites and apps that make it easier for customers to discover and shop.",
+        "items": ["Custom eCommerce Website Development", "eCommerce App Development", "WooCommerce Development", "Shopify Development", "Shopping Cart Development", "Payment Gateway Integration", "Multi-Vendor Marketplace Development", "eCommerce API Integration"],
+        "cta": { "label": "Build Your eCommerce Store", "href": "#consultation" }
+      }
+    ],
+    "bottomCta": { "label": "Get a Custom Solutions", "href": "#consultation" }
+  },
+  "aiSection": {
+    "eyebrow": "AI-POWERED WEBSITE & APP DEVELOPMENT",
+    "title": "Make Your Website or App Smarter With AI",
+    "description": "Modern websites and applications can do more than display information. We integrate AI into websites, mobile applications and custom business software to create smarter customer experiences, automate repetitive workflows and help businesses use their data more effectively. Whether you're starting a new project or looking to add AI to an existing website or application, we can help identify practical ways to integrate AI into your product.",
+    "cards": [
+      { "icon": "network", "title": "AI Integration", "description": "Integrate AI capabilities into existing websites, applications and business systems." },
+      { "icon": "development", "title": "AI Development", "description": "Build custom AI-powered features and applications around your business requirements." },
+      { "icon": "agent", "title": "AI Agent Development", "description": "Develop AI agents that can perform defined tasks and interact with applications, data and business workflows." },
+      { "icon": "chatbot", "title": "AI Chatbot Development", "description": "Create AI-powered chatbots and assistants for customer support, information access and business use cases." },
+      { "icon": "automation", "title": "AI Automation", "description": "Use AI to automate repetitive processes, workflows and business tasks." },
+      { "icon": "llm", "title": "LLM Development", "description": "Build and integrate LLM-powered features into websites, applications and business software." },
+      { "icon": "generative", "title": "Generative AI", "description": "Develop AI-powered experiences using generative AI technologies for relevant business use cases." },
+      { "icon": "agentic", "title": "Agentic AI Development", "description": "Build AI-driven systems capable of handling multi-step tasks and workflows where appropriate." }
+    ]
+  },
+  "projects": {
+    "eyebrow": "",
+    "title": "",
+    "items": [
+      {
+        "logo": "/projects/magellan-logo.png",
+        "badge": "Travel Platform",
+        "title": "Magellan – Unified Travel Booking Platform for the Iraqi Market",
+        "tags": "Web Application | Mobile Apps | API Integrations | Travel Platform",
+        "description": "",
+        "stats": [],
+        "image": "/projects/magellan.png"
+      },
+      {
+        "logo": "/projects/cmx-logo.png",
+        "badge": "Logistics Platform",
+        "title": "CMX Haul – On-Demand Truck Booking & Fleet Management Platform",
+        "tags": "Web Platform | Mobile Apps | Fleet Management | Logistics Automation",
+        "description": "We developed a logistics platform that connects customers, drivers, and fleet operators through real-time truck booking, digital trip management, dynamic pricing, and integrated wallet payments.",
+        "stats": [
+          { "value": "25K+", "label": "Trip Bookings" },
+          { "value": "500+", "label": "Fleet Partners" }
+        ],
+        "image": "/projects/cmx.png"
+      },
+      {
+        "logo": "/projects/fitx-logo.png",
+        "badge": "Health & Fitness Platform",
+        "title": "FitX – AI-Powered Fitness, Nutrition & Wellness Platform",
+        "tags": "Mobile App | AI Integration | Nutrition Tracking | Health Analytics",
+        "description": "We developed an AI-powered fitness platform that combines personalized workouts, nutrition planning, calorie tracking, and wellness insights to help users build healthier daily habits.",
+        "stats": [
+          { "value": "50K+", "label": "Workout Sessions" },
+          { "value": "15K+", "label": "Active Users" }
+        ],
+        "image": "/projects/fitx.png"
+      }
+    ]
+  },
+  "reviews": {
+    "eyebrow": "CLIENT REVIEWS",
+    "title": "What Our Clients Say",
+    "description": "See what businesses and clients have to say about working with Invoidea for website design, web development, mobile apps and custom software solutions.",
+    "rating": {
+      "score": "4.9",
+      "stars": 5,
+      "countLabel": "5 Reviews",
+      "poweredByPrefix": "Powered by",
+      "poweredByName": "Clutch"
+    },
+    "verifiedLabel": "Verified Review",
+    "prevLabel": "Previous reviews",
+    "nextLabel": "Next reviews",
+    "items": [
+      {
+        "stars": 5,
+        "title": "Website Revamp & Rebranding",
+        "text": "They understood our requirements well and delivered a high-quality solution with great attention to detail."
+      },
+      {
+        "stars": 5,
+        "title": "Flooring Website Design & Development",
+        "text": "We're impressed by how they understood our requirements and turned our ideas into a practical, high-quality solution."
+      },
+      {
+        "stars": 5,
+        "title": "Custom Web Application Development",
+        "text": "PLACEHOLDER – replace with the real client review text."
+      },
+      {
+        "stars": 5,
+        "title": "Mobile App Development",
+        "text": "PLACEHOLDER – replace with the real client review text."
+      },
+      {
+        "stars": 5,
+        "title": "eCommerce Website Development",
+        "text": "PLACEHOLDER – replace with the real client review text."
+      }
+    ]
+  },
+  "ctaBanner": {
+    "eyebrow": "HAVE A PROJECT IN MIND?",
+    "title": "Let's Build Something That Works For Your Business",
+    "description": "Whether you need a new website, eCommerce platform, mobile app, custom software or an AI-powered solution, let's discuss your requirements and find the right approach for your project.",
+    "phone": "+91 7292 050505",
+    "email": "sales@invoidea.com",
+    "button": { "label": "Start Your Project", "href": "#consultation" }
+  },
+  "customSolutions": {
+    "eyebrow": "CUSTOM SOFTWARE & WEBSITE DEVELOPMENT IN NOIDA & DELHI NCR",
+    "title": "Custom-Built Solutions To Power Your Business",
+    "description": "Every business has different processes, customers and operational requirements. As a website development company in Noida, we offer custom and scalable solutions designed to meet your specific business needs. We develop custom web applications and business software tailored to your workflows, helping businesses in Noida, Greater Noida, Delhi and across India streamline operations, improve customer experiences and build scalable digital systems. From internal business applications to customer-facing platforms, our team combines modern web development, APIs, cloud-ready architecture and AI capabilities to build solutions around your requirements.",
+    "items": [
+      { "title": "HRM Solution", "description": "Manage employee data, HR processes, attendance, leave and workforce operations through a customized HR management platform." },
+      { "title": "CRM Solution", "description": "Centralize customer information, leads, sales activities and customer interactions with a CRM solution tailored to your business." },
+      { "title": "ERP Solution", "description": "Connect business operations and improve visibility across processes with a customized ERP platform." },
+      { "title": "LMS Solution", "description": "Build a scalable learning management platform for courses, training, assessments and learner management." },
+      { "title": "POS Solution", "description": "Manage sales, billing, inventory and business operations through a customized point-of-sale solution." },
+      { "title": "CMS Solution", "description": "Manage and publish website content efficiently through a flexible content management system built around your requirements." }
+    ],
+    "cta": { "label": "Get a Custom Solution", "href": "#consultation" }
+  },
+  "techStack": {
+    "eyebrow": "TECH STACK",
+    "title": "Technologies We Use",
+    "description": "At our website development company in Delhi NCR & Noida , we offer custom and scalable solutions designed to meet your specific business needs. We use modern technologies, frameworks and platforms to build responsive websites, mobile applications, eCommerce platforms, custom software and AI-powered digital products.",
+    "rows": [
+      {
+        "direction": "left",
+        "duration": 40,
+        "items": [
+          { "name": "JQuery", "tone": "gray" },
+          { "name": "React Js", "tone": "orange" },
+          { "name": "Next JS", "tone": "gray" },
+          { "name": "Flutter", "tone": "orange" },
+          { "name": "React native", "tone": "gray" },
+          { "name": "HTML 5", "tone": "gray" },
+          { "name": "CSS 3", "tone": "orange" },
+          { "name": "Bootstrap", "tone": "gray" },
+          { "name": "Javascript", "tone": "orange" }
+        ]
+      },
+      {
+        "direction": "right",
+        "duration": 40,
+        "items": [
+          { "name": "PHP", "tone": "blue" },
+          { "name": "Vue JS", "tone": "gray" },
+          { "name": "ChatGpt", "tone": "blue" },
+          { "name": "Shopify", "tone": "blue" },
+          { "name": "Wordpress", "tone": "gray" },
+          { "name": "Woocommerce", "tone": "blue" },
+          { "name": "MySQL", "tone": "gray" },
+          { "name": "Mongo DB", "tone": "blue" },
+          { "name": "Laravel", "tone": "gray" }
+        ]
+      }
+    ],
+    "floatingIcons": [
+      { "name": "Figma", "image": "/tech/figma.png", "top": "4%", "left": "26%", "size": 56, "delay": 0 },
+      { "name": "CSS3", "image": "/tech/css3.png", "top": "0%", "left": "95%", "size": 56, "delay": 1.5 },
+      { "name": "Adobe XD", "image": "/tech/xd.png", "top": "52%", "left": "3%", "size": 64, "delay": 3 },
+      { "name": "HTML5", "image": "/tech/html5.png", "top": "55%", "left": "78%", "size": 52, "delay": 4.5 }
+    ]
+  },
+  "whyChooseUs": {
+    "eyebrow": "WEB DEVELOPMENT FOR GROWING BUSINESSES",
+    "title": "Why Choose Us",
+    "description": "Choosing the right technology partner means more than simply getting a website built. With proven expertise, we are a trusted website design and web development agency, offering web development services for Noida businesses. We combine design, development, mobile applications, eCommerce, custom software and AI capabilities to create digital solutions aligned with your business objectives. Our focus is on usability, performance, scalability and long-term support so your digital product can evolve as your business grows.",
+    "cards": [
+      { "icon": "network", "title": "Advanced Technology", "description": "We use modern web, mobile and AI technologies to build reliable, scalable and performance-focused digital products." },
+      { "icon": "development", "title": "All-In-One Solution", "description": "From design and development to integrations, deployment and ongoing support, work with one experienced team throughout your project." },
+      { "icon": "chatbot", "title": "AI-READY DEVELOPMENT", "description": "Integrate modern AI capabilities such as LLMs, AI agents, chatbots and automation into new or existing digital products." },
+      { "icon": "clientCheck", "title": "Client-Centric Approach", "description": "We understand your requirements first and build digital solutions around your users, processes and business goals." }
+    ],
+    "cta": { "label": "Connect with Us", "href": "#consultation" }
+  },
+  "locationBanner": {
+    "eyebrow": "SERVING BUSINESSES ACROSS INDIA",
+    "title": "From Noida to Businesses Across India",
+    "description": "Based in Noida, we work with businesses in Delhi, Greater Noida and clients across India, providing website design, web development, eCommerce, mobile app and custom software solutions. We work with startups, growing businesses and established organizations looking for a reliable technology partner to design, develop and support their digital products.",
+    "locations": "Noida • Greater Noida • Delhi NCR • India"
+  },
+  "industries": {
+    "eyebrow": "WEB DEVELOPMENT AGENCY IN NOIDA & DELHI NCR",
+    "title": "Industries We Serve",
+    "description": "We build AI-integrated websites, mobile apps, eCommerce platforms and custom software solutions for businesses across a wide range of industries.",
+    "items": [
+      { "icon": "ecommerce", "label": "Ecommerce" },
+      { "icon": "travel", "label": "Travel & Hospitality" },
+      { "icon": "healthcare", "label": "Healthcare" },
+      { "icon": "realEstate", "label": "Real Estate & Construction" },
+      { "icon": "education", "label": "Education" },
+      { "icon": "logistics", "label": "Transportation & Logistics" },
+      { "icon": "utilities", "label": "Utilities & On Demand" },
+      { "icon": "finance", "label": "Finance & Insurance" },
+      { "icon": "media", "label": "Media & Entertainment" },
+      { "icon": "manufacturing", "label": "Manufacturing" }
+    ]
+  },
+  "readyBanner": {
+    "eyebrow": "READY TO BUILD?",
+    "title": "Have a Website, App or Custom Software Project in Mind?",
+    "description": "Whether you're planning a new website, redesigning an existing website, launching an eCommerce store, developing a mobile app, building custom business software or adding AI capabilities to your product, our team can help. Tell us what you're looking to build and we'll discuss the right approach, technology and next steps for your project.",
+    "buttons": [
+      { "label": "Start Your Project", "href": "#consultation" },
+      { "label": "Talk to Experts", "href": "#consultation" }
+    ],
+    "services": "Web Design • Web Development • Mobile Apps • eCommerce • WordPress • Shopify • Custom Software • AI Solutions"
+  },
+  "faq": {
+    "eyebrow": "FAQ'S",
+    "title": "Frequently Asked Questions",
+    "items": [
+      {
+        "question": "How long does it take to build a website or mobile app with Invoidea?",
+        "answer": "PLACEHOLDER – add the answer for this question."
+      },
+      {
+        "question": "What is the cost of website or app development?",
+        "answer": "PLACEHOLDER – add the answer for this question."
+      },
+      {
+        "question": "Do you offer custom website design and development?",
+        "answer": "PLACEHOLDER – add the answer for this question."
+      },
+      {
+        "question": "Do you provide website design services in Noida?",
+        "answer": "PLACEHOLDER – add the answer for this question."
+      },
+      {
+        "question": "Do you provide website development services in Delhi?",
+        "answer": "PLACEHOLDER – add the answer for this question."
+      },
+      {
+        "question": "Can you integrate AI automation into existing business software?",
+        "answer": "PLACEHOLDER – add the answer for this question."
+      },
+      {
+        "question": "What technologies do you use for website and mobile app development?",
+        "answer": "PLACEHOLDER – add the answer for this question."
+      },
+      {
+        "question": "Will I own the code and intellectual property after the project is completed?",
+        "answer": "PLACEHOLDER – add the answer for this question."
+      },
+      {
+        "question": "Do you provide web development services in Greater Noida?",
+        "answer": "PLACEHOLDER – add the answer for this question."
+      },
+      {
+        "question": "Do you provide eCommerce website development?",
+        "answer": "PLACEHOLDER – add the answer for this question."
+      },
+      {
+        "question": "Do you provide WordPress website development?",
+        "answer": "PLACEHOLDER – add the answer for this question."
+      },
+      {
+        "question": "Do you provide Shopify website development?",
+        "answer": "PLACEHOLDER – add the answer for this question."
+      },
+      {
+        "question": "Can you add AI features to an existing website or mobile app?",
+        "answer": "PLACEHOLDER – add the answer for this question."
+      },
+      {
+        "question": "Can you develop AI-powered chatbots and AI agents?",
+        "answer": "PLACEHOLDER – add the answer for this question."
+      },
+      {
+        "question": "Do you provide LLM and Generative AI development?",
+        "answer": "PLACEHOLDER – add the answer for this question."
+      },
+      {
+        "question": "Do you provide maintenance and post-launch support?",
+        "answer": "PLACEHOLDER – add the answer for this question."
+      },
+      {
+        "question": "Can you integrate third-party services or APIs?",
+        "answer": "PLACEHOLDER – add the answer for this question."
+      },
+      {
+        "question": "Can you work with international clients?",
+        "answer": "PLACEHOLDER – add the answer for this question."
+      }
+    ]
+  },
+  "globe": {
+    "title": "Delivering Digital Solutions Across the Globe",
+    "description": "We proudly serve clients globally with advanced digital solutions – no matter whether you are a startup or an established enterprise.",
+    "cta": {
+      "label": "Request a Free Quote",
+      "href": "#consultation"
+    },
+    "mapImage": "/world-map.png",
+    "countries": [
+      "IND",
+      "AUS",
+      "USA",
+      "DXB",
+      "UAE",
+      "IRAQ",
+      "NRA"
+    ]
+  },
+  "discuss": {
+    "eyebrow": "LET'S BUILD SOMETHING GREAT TOGETHER",
+    "title": "Want to discuss a project?",
+    "fields": [
+      {
+        "name": "name",
+        "placeholder": "Name",
+        "type": "text",
+        "required": true,
+        "width": "half"
+      },
+      {
+        "name": "company",
+        "placeholder": "Company",
+        "type": "text",
+        "required": false,
+        "width": "half"
+      },
+      {
+        "name": "email",
+        "placeholder": "Email",
+        "type": "email",
+        "required": true,
+        "width": "half"
+      },
+      {
+        "name": "phone",
+        "placeholder": "Phone number",
+        "type": "tel",
+        "required": true,
+        "width": "half"
+      },
+      {
+        "name": "message",
+        "placeholder": "Message",
+        "type": "textarea",
+        "required": true,
+        "width": "full"
+      }
+    ],
+    "submit": "Submit",
+    "submitting": "Sending...",
+    "errors": {
+      "required": "This field is required.",
+      "email": "Please enter a valid email address."
+    },
+    "success": "Thank you! Our team will contact you shortly.",
+    "stats": [
+      {
+        "value": "1560+",
+        "label": "Project Delivered"
+      },
+      {
+        "value": "20+",
+        "label": "Countries Served"
+      },
+      {
+        "value": "98%",
+        "label": "Customer Retention Ratio"
+      },
+      {
+        "value": "8+ yrs",
+        "label": "Experience"
+      }
+    ]
+  },
+  "footer": {
+    "tagline": "We take your business ideas to the next level.",
+    "india": {
+      "title": "INDIA ADDRESS",
+      "phone": "+91 7292 050505",
+      "address": "C-127, C Block, Sector 63 Noida",
+      "email": "sales@invoidea.com"
+    },
+    "usa": {
+      "title": "USA ADDRESS",
+      "phone": "+1 205 485 0505",
+      "address": "15851 Dallas Parkway #1021 Addison, TX 75001"
+    },
+    "ratings": [
+      {
+        "name": "Google",
+        "image": "",
+        "stars": 4.5
+      },
+      {
+        "name": "facebook",
+        "image": "",
+        "stars": 5
+      },
+      {
+        "name": "Clutch",
+        "image": "",
+        "stars": 4.5
+      },
+      {
+        "name": "DESIGNRUSH",
+        "image": "",
+        "stars": 4.5
+      },
+      {
+        "name": "Trustpilot",
+        "image": "",
+        "stars": 4
+      },
+      {
+        "name": "GoodFirms",
+        "image": "",
+        "stars": 5
+      }
+    ],
+    "about": "Invoidea is a web design and development company serving businesses in Noida, Delhi, Greater Noida and across India. We provide website design, web development, mobile app development, eCommerce, WordPress, Shopify, custom software and AI development solutions.",
+    "copyright": "© 2026 Invoidea. All rights reserved."
+  },
+  "floatingActions": [
+    { "icon": "phone", "label": "Call Us Now", "href": "tel:+917292050505" },
+    { "icon": "mail", "label": "Mail To Us", "href": "mailto:sales@invoidea.com" },
+    { "icon": "inquiry", "label": "Inquiry", "href": "#consultation" }
+  ],
+  "whatsapp": { "href": "https://wa.me/917292050505", "label": "Chat on WhatsApp" }
+}
