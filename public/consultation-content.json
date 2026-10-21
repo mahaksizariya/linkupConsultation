@@ -522,7 +522,7 @@
     "copyright": "© 2026 Linkup Group. All rights reserved."
   },
   "floatingActions": [
-    { "icon": "phone", "label": "Call Us Now", "href": "tel:+917292050505" },
+    { "icon": "phone", "label": "Call Us Now", "href": "tel:+917292050605" },
     { "icon": "mail", "label": "Mail To Us", "href": "mailto:sales@linkupgroup.com" },
     { "icon": "inquiry", "label": "Inquiry", "href": "#consultation" }
   ],
